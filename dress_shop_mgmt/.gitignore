@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+
+# Databases
+*.db
+*.sqlite3
+
+# Backups & Logs
+*.log
+dress_shop_mgmt/backups/
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
